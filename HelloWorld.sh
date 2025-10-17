@@ -3,7 +3,7 @@
 # and Command Line workshop. 
 
 NAME="Jameson" # Change This Variable to Your Name
-
+MAJOR="CS"
 validate_name() {
     if [ "$NAME" = "HELLO WORLD" ]; then
         echo "You Haven't Changed the NAME Variable on Line 5. Please Change it!"
